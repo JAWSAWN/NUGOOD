@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nugood",
+  "name": "NUGOOD",
+  "description": "Bringing common sense to iron nugets.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jason_Anaminus"],
+  "credits": "Nut for opening my eyes for this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

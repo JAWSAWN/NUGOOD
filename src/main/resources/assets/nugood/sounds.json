@@ -1,0 +1,6 @@
+{
+  "secret_ding": {
+    "category": "block",
+    "sounds": [ "nugood:secretding" ]
+  }
+}
